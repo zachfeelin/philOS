@@ -1,1 +1,3 @@
-This is a final project for the CTY Bristol site FRCS-BRI23
+THIS IS A PROTOTYPE WINDOW
+
+to close you MUST use Alt+F4
